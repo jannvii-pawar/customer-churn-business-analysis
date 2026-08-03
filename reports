@@ -1,0 +1,71 @@
+Customer Churn Analysis Using Python
+
+1. Introduction
+
+Customer churn is one of the biggest challenges faced by subscription-based businesses. Understanding customer behavior helps organizations improve customer satisfaction and increase revenue. This project performs a complete end-to-end business analysis using Python.
+
+2. Business Problem
+
+The company is experiencing customer churn, resulting in decreased revenue and customer lifetime value. The objective is to identify the reasons behind customer churn and recommend effective retention strategies.
+
+3. Objectives
+Analyze customer data.
+Identify churn patterns.
+Perform statistical analysis.
+Generate meaningful visualizations.
+Provide business recommendations.
+4. Dataset Description
+
+Dataset Name: Customer Churn Dataset
+
+Number of Records: 500
+
+Data Cleaning Performed:
+
+Duplicate removal
+Missing value checking
+Data type conversion
+Label Encoding
+5. Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Google Colab
+6. Data Cleaning
+
+The dataset was inspected for missing values and duplicate records. Categorical variables were converted into numerical values using Label Encoding for analysis.
+
+7. Exploratory Data Analysis
+
+Performed:
+
+Descriptive Statistics
+Correlation Analysis
+Distribution Analysis
+Customer Segmentation
+Churn Analysis
+
+Visualizations:
+
+Pie Chart
+Histogram
+Bar Chart
+Box Plot
+Scatter Plot
+Correlation Heatmap
+8. Key Findings
+Customers with higher monthly charges showed higher churn rates.
+Customers with shorter tenure were more likely to leave.
+Long-term customers demonstrated stronger loyalty.
+Monthly charges and tenure significantly influenced customer retention.
+9. Business Recommendations
+Launch customer loyalty programs.
+Provide personalized offers.
+Improve customer onboarding.
+Monitor high-risk customer segments.
+Reduce churn using predictive analytics.
+10. Conclusion
+
+The project successfully completed the entire business analysis workflow from raw data to actionable business insights. The findings can help organizations make informed business decisions and improve customer retention.
